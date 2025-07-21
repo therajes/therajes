@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @therajes
 - 👀 I’m interested in Python Programming.
 - 🌱 I’m currently learning Python3.
-- 💞️ I’m looking to collaborate on software and web development.
 - 📫 How to reach me - rajesh.kumar.barik@icloud.com
 - 😄 Pronouns: He
 
